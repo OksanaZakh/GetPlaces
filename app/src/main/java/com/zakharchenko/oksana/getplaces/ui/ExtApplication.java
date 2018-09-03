@@ -1,4 +1,4 @@
-package com.zakharchenko.oksana.getplaces;
+package com.zakharchenko.oksana.getplaces.ui;
 
 import android.app.Application;
 import android.arch.persistence.room.Room;

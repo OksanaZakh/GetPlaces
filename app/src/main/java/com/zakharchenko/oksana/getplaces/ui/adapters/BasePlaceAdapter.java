@@ -1,8 +1,8 @@
-package com.zakharchenko.oksana.getplaces.adapters;
+package com.zakharchenko.oksana.getplaces.ui.adapters;
 
 import android.support.v7.widget.RecyclerView;
 import com.zakharchenko.oksana.getplaces.db.model.BasePlace;
-import com.zakharchenko.oksana.getplaces.fragments.OnItemClickListener;
+import com.zakharchenko.oksana.getplaces.ui.fragments.OnItemClickListener;
 import java.util.ArrayList;
 import java.util.List;
 

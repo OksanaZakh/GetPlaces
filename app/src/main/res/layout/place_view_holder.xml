@@ -196,21 +196,3 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 </LinearLayout>
-
-    <!--"Name": "4",-->
-    <!--"Code": "TABLE120815143951827",-->
-    <!--"Left": 266,-->
-
-    <!--"Top": 193,-->
-    <!--"Width": 107,-->
-    <!--"Height": 92,-->
-
-    <!--"Corner": 10,-->
-    <!--"ShapeType": 1,-->
-    <!--"ShapeOrient": 0,-->
-
-    <!--"Color": 8421504,-->
-    <!--"Style": 0,-->
-    <!--"FrameColor": 0,-->
-
-    <!--"FontColor": 0,-->

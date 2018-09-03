@@ -1,4 +1,4 @@
-package com.zakharchenko.oksana.getplaces;
+package com.zakharchenko.oksana.getplaces.ui;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -9,11 +9,11 @@ import android.view.MenuItem;
 
 import com.zakharchenko.oksana.getplaces.R;
 import com.zakharchenko.oksana.getplaces.api.APIRequest;
-import com.zakharchenko.oksana.getplaces.fragments.BillFragment;
-import com.zakharchenko.oksana.getplaces.fragments.GroupFragment;
-import com.zakharchenko.oksana.getplaces.fragments.SchemaFragment;
-import com.zakharchenko.oksana.getplaces.fragments.UnionListFragment;
-import com.zakharchenko.oksana.getplaces.fragments.PlaceFragment;
+import com.zakharchenko.oksana.getplaces.ui.fragments.BillFragment;
+import com.zakharchenko.oksana.getplaces.ui.fragments.GroupFragment;
+import com.zakharchenko.oksana.getplaces.ui.fragments.SchemaFragment;
+import com.zakharchenko.oksana.getplaces.ui.fragments.UnionListFragment;
+import com.zakharchenko.oksana.getplaces.ui.fragments.PlaceFragment;
 import com.zakharchenko.oksana.getplaces.utils.Constants;
 
 

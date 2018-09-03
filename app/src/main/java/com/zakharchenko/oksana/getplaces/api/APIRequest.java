@@ -2,7 +2,7 @@ package com.zakharchenko.oksana.getplaces.api;
 
 import android.util.Log;
 
-import com.zakharchenko.oksana.getplaces.ExtApplication;
+import com.zakharchenko.oksana.getplaces.ui.ExtApplication;
 
 import com.zakharchenko.oksana.getplaces.db.dao.BillDao;
 import com.zakharchenko.oksana.getplaces.db.dao.PlaceDao;

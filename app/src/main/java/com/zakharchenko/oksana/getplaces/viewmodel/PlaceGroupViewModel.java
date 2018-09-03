@@ -2,7 +2,7 @@ package com.zakharchenko.oksana.getplaces.viewmodel;
 
 import android.arch.lifecycle.LiveData;
 
-import com.zakharchenko.oksana.getplaces.ExtApplication;
+import com.zakharchenko.oksana.getplaces.ui.ExtApplication;
 import com.zakharchenko.oksana.getplaces.db.model.PlaceGroup;
 
 import java.util.List;

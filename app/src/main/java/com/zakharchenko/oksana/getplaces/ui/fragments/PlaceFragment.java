@@ -1,4 +1,4 @@
-package com.zakharchenko.oksana.getplaces.fragments;
+package com.zakharchenko.oksana.getplaces.ui.fragments;
 
 
 import android.arch.lifecycle.ViewModelProviders;
@@ -7,10 +7,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.zakharchenko.oksana.getplaces.MainActivity;
+import com.zakharchenko.oksana.getplaces.ui.MainActivity;
 import com.zakharchenko.oksana.getplaces.R;
-import com.zakharchenko.oksana.getplaces.adapters.BasePlaceAdapter;
-import com.zakharchenko.oksana.getplaces.adapters.PlaceViewHolder;
+import com.zakharchenko.oksana.getplaces.ui.adapters.BasePlaceAdapter;
+import com.zakharchenko.oksana.getplaces.ui.adapters.PlaceViewHolder;
 import com.zakharchenko.oksana.getplaces.db.model.Place;
 import com.zakharchenko.oksana.getplaces.utils.Constants;
 import com.zakharchenko.oksana.getplaces.viewmodel.PlaceViewModel;

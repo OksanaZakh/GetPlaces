@@ -31,22 +31,18 @@ public class PlaceGroupSchema extends BasePlace {
 
     @NonNull
     public String getSchemaTitle() {
-        Log.d(TAG, "getSchemaTitle: "+schemaTitle);
         return schemaTitle;
     }
 
     public void setSchemaTitle(@NonNull String schemaTitle) {
-        Log.d(TAG, "setSchemaTitle: "+schemaTitle);
         this.schemaTitle = schemaTitle;
     }
 
     public String getGroupName() {
-        Log.d(TAG, "getGroupName: "+groupName);
         return groupName;
     }
 
     public void setGroupName(String groupName) {
-        Log.d(TAG, "setGroupName: "+groupName);
         this.groupName = groupName;
     }
 

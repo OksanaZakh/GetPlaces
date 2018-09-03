@@ -1,4 +1,4 @@
-package com.zakharchenko.oksana.getplaces.fragments;
+package com.zakharchenko.oksana.getplaces.ui.fragments;
 
 import android.view.View;
 

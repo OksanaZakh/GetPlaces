@@ -1,4 +1,4 @@
-package com.zakharchenko.oksana.getplaces.adapters;
+package com.zakharchenko.oksana.getplaces.ui.adapters;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
