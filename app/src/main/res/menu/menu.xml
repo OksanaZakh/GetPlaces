@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_union"
+        android:title="@string/show_all_unions" />
+    <item
+        android:id="@+id/menu_groups"
+        android:title="@string/show_all_groups" />
+    <item
+        android:id="@+id/menu_schemas"
+        android:title="@string/show_all_schemas" />
+    <item
+        android:id="@+id/menu_places"
+        android:title="@string/show_all_places" />
+    <item
+        android:id="@+id/menu_bills"
+        android:title="Show All Bills" />
+
+</menu>

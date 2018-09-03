@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Get Places</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_all_unions">Show All Unions</string>
+    <string name="show_all_groups">Show ALL Groups</string>
+    <string name="show_all_schemas">Show All Schemas</string>
+    <string name="show_all_places">Show All Places</string>
+    <string name="bills">Bills</string>
+    <string name="places">Places</string>
+    <string name="unions">Unions</string>
+    <string name="schemas">Schemas</string>
+    <string name="groups">Groups</string>
+</resources>
